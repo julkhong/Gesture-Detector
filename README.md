@@ -11,7 +11,8 @@ No particular code style. But I do follow indentation code style.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-Include logo/demo screenshot etc.
+![Screenshot (259) (updated)](https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png)
+
 
 
 ## Tech/framework used
