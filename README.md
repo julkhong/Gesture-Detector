@@ -12,8 +12,6 @@ No particular code style. But I do follow indentation code style.
  
 ## Screenshots
 ![Screenshot (259) (updated)](https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png){:class="img-responsive"}
-![Screenshot (259) (updated)](https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png){:height="50%" width="50%"}
-![Screenshot (259) (updated)](https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png){:height="700px" width="400px"}
 
 
 
