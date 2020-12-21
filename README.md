@@ -2,7 +2,7 @@
 A simple mobile application for gesture detection.
 
 ## Motivation
-The motivation is mainly for learning purposes. This includes UI designs, examine the proper use of the RecyclerView and CardViews, observe interaction between room database and application (Entities, Repository, ViewModel and LiveData), learn about Content Provider and Resolver and a few more. 
+The motivation is mainly for learning purposes. This is just part of the learning, the learning includes UI designs, examining the proper use of the RecyclerView and CardViews, observing interaction between room database and application (Entities, Repository, ViewModel and LiveData), learning Content Provider and Resolver and a few more. 
 
 
 ## Code style
