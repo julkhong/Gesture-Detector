@@ -16,19 +16,44 @@ No particular code style. But I do follow indentation code style.
 
 
 ## Tech/framework used
-Ex. -
+Android Studio
 
 <b>Built with</b>
 - [Electron](https://electron.atom.io)
 
 ## Features
-What makes your project stand out?
+Simple implementation and it's beginner friendly.
 
 ## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+    public boolean onTouch(View v, MotionEvent event) {
+        mDetector.onTouchEvent(event);
+        mScaleDetector.onTouchEvent(event);
+
+        return true;
+    }
+
+    private class MyGestureListener extends GestureDetector.SimpleOnGestureListener {
+
+
+        @Override
+        public boolean onDoubleTap(MotionEvent e) {
+            tV.setText("onDoubleTap");
+            return true;
+        }
 
 ## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
+Install Java
+go here and make sure to download the one for Windows.
+Install Android Studio
+use the link below to install Android Studio
+http://developer.android.com/sdk/index.html
+
+Install Git
+install git:
+http://git-scm.com/download/win
+
+Next Steps
+restart your computer, and go to the next step
 
 ## API Reference
 
