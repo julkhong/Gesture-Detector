@@ -54,6 +54,7 @@ Open your android studio, set up [JDK](https://developer.android.com/about/versi
 ## Tests
 Depending on the classes you implement in the main activity. there are classes for double tap, single tap, long press, scroll and many more. As their class names suggest, they do exactly as their name. Hence, in the virtual device you will be able to double tap if you implemented double tap class. 
 
+Note: only the source file is shared here.
 
 ## Credits
 Credits to Dr Ali for the teaching.  
