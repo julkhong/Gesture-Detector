@@ -28,18 +28,20 @@ Simple implementation and it's beginner friendly.
 
 
 ## Installation
-Install Java
-go here and make sure to download the one for Windows.
-Install Android Studio
-use the link below to install Android Studio
+Windows:
+1)Install Java
+click here and download Java for Windows.
+
+2)Install Android Studio
+click on the link below to install Android Studio
 http://developer.android.com/sdk/index.html
 
 Install Git
-install git:
+Click on the link
 http://git-scm.com/download/win
 
-Next Steps
-restart your computer, and go to the next step
+Final steps
+restart your compute and click next step
 
 ## API Reference
 
