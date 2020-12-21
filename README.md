@@ -25,21 +25,7 @@ Android Studio
 Simple implementation and it's beginner friendly.
 
 ## Code Example
-    public boolean onTouch(View v, MotionEvent event) {
-        mDetector.onTouchEvent(event);
-        mScaleDetector.onTouchEvent(event);
 
-        return true;
-    }
-
-    private class MyGestureListener extends GestureDetector.SimpleOnGestureListener {
-
-
-        @Override
-        public boolean onDoubleTap(MotionEvent e) {
-            tV.setText("onDoubleTap");
-            return true;
-        }
 
 ## Installation
 Install Java
