@@ -58,4 +58,9 @@ Credits to https://gist.github.com/akashnimare for the amazing README template!
 ## License
 Default license applies here. 
 
+## Contact
+Created by Jun Ming Khong. 
+Feel free to send me an email!
+ officialkhong@gmail.com 
+
 
