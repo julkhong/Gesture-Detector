@@ -26,7 +26,7 @@ Simple implementation and it's beginner friendly.
 
 
 ## Installation
-# Windows
+### Windows
 
 1)Install Java
 
