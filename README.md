@@ -12,6 +12,8 @@ No particular code style. But I do follow indentation code style.
  
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/70477671/102730191-c07fda00-436e-11eb-9a03-8b9ed3325bea.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/102730270-19e80900-436f-11eb-9acb-adade7b1cafb.png" width="700" height="490">
+
 
 ## Tech/framework used
 Ex. -
