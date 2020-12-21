@@ -16,10 +16,9 @@ No particular code style. But I do follow indentation code style.
 
 
 ## Tech/framework used
+Java
 Android Studio
 
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
 
 ## Features
 Simple implementation and it's beginner friendly.
@@ -56,6 +55,6 @@ Credits to Dr Ali for the teaching.
 Credits to https://gist.github.com/akashnimare for the amazing README template!
 
 ## License
-Default license apply here. 
+Default license applies here. 
 
-MIT © [julkhong]()
+
