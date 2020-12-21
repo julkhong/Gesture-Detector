@@ -13,8 +13,8 @@ No particular code style. But I do follow indentation code style.
 ## Screenshots
 ![Screenshot (259) (updated)](https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png)
 <img src="https://user-images.githubusercontent.com/70477671/102113844-7f6e5e00-3e74-11eb-869c-af0e26572e24.png" width="700" height="490">
-
-
+![Screenshot (259) (updated2)](https://user-images.githubusercontent.com/70477671/102730191-c07fda00-436e-11eb-9a03-8b9ed3325bea.png)
+<img src="https://user-images.githubusercontent.com/70477671/102730191-c07fda00-436e-11eb-9a03-8b9ed3325bea.png" width="700" height="490">
 
 ## Tech/framework used
 Ex. -
