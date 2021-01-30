@@ -8,7 +8,6 @@ The motivation is mainly for learning purposes. This is just part of the learnin
 ## Code style
 No particular code style. But I do follow indentation code style.
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/70477671/102730191-c07fda00-436e-11eb-9a03-8b9ed3325bea.png" width="700" height="490">
@@ -61,7 +60,8 @@ Credits to Dr Ali for the teaching.
 Credits to https://gist.github.com/akashnimare for the amazing README template!
 
 ## License
-Default license applies here. 
+Default license applies here. But feel free to unofficially "reference" to :P .
+
 
 ## Contact
 Created by Jun Ming Khong. 
