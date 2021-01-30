@@ -64,7 +64,7 @@ Default license applies here. But feel free to unofficially "reference" to :P .
 
 
 ## Contact
-Created by Jun Ming Khong. 
+Created by Jun Ming Khong (Julian). 
 Feel free to send me an email!
  officialkhong@gmail.com 
 
